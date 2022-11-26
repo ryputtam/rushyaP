@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rushyaP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rushya Puttam
+- 👀 I’m working as a Data Scientist
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to contribute on open source projects and publish papers on applications of AI
+
 
 <!---
 rushyaP/rushyaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
