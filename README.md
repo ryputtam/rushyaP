@@ -5,6 +5,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=rushyaP&color=blue)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushyap&show_icons=true&locale=en" alt="rushyap" /></p>
 
 
