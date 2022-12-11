@@ -4,7 +4,7 @@
 - 💞️ I’m looking to contribute on open source projects and publish papers on the applications of AI
 
 
-
+![](https://komarev.com/ghpvc/?username=rushyaP&color=dc143c)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushyap&show_icons=true&locale=en" alt="rushyap" /></p>
 
 
