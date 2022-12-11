@@ -7,6 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=rushyaP&color=blue)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushyap&show_icons=true&locale=en" alt="rushyap" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushyaP&layout=compact)](https://github.com/rushyaP)
 
 
 <!-- Add this code to see Social Icons on your profile -->
