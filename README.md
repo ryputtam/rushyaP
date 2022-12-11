@@ -4,6 +4,10 @@
 - 💞️ I’m looking to contribute on open source projects and publish papers on the applications of AI
 
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushyap&show_icons=true&locale=en" alt="rushyap" /></p>
+
+
 <!-- Add this code to see Social Icons on your profile -->
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
