@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rushya Puttam
 - 👀 I’m working as a Data Scientist
-<!-- 🌱 I’m currently learning neural networks -->
 - 💞️ I’m looking to contribute on open source projects and work on research in causal AI
+- <!-- 🌱 I’m currently learning neural networks -->
 
 
 ![](https://komarev.com/ghpvc/?username=rushyaP&color=blue)
