@@ -9,7 +9,7 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushyap&show_icons=true&locale=en" alt="rushyap" /></p> -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ryputtam)](https://github.com/rushyaP)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushyaP&layout=compact)](https://github.com/rushyaP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryputtam&layout=compact)](https://github.com/ryputtam)
 
 
 <!-- Add this code to see Social Icons on your profile -->
